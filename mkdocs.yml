@@ -1,0 +1,5 @@
+site_name: Tarea dos
+nav:
+- Home: index.md
+- Reference: reference.md
+
