@@ -1,7 +1,7 @@
 # Documentacion de Referencia
 
-Se encuentra la documentacion de "cuadratura2"
+Se encuentra la documentacion de "cuadratura"
 
 ## Funciones
 
-::: cuadratura2.cuadratura2
+::: cuadratura.cuadratura
